@@ -1,0 +1,25 @@
+
+.ecom-navbar {
+  height: 60px;
+  width: 100vw;
+  background-color: rgba(19, 25, 33);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ecom-navbar-firstarea {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  width: 70%;
+  /* background-color: lightblue; */
+}
+
+.ecom-navbar-secondarea{
+  display: flex;
+  align-items: center;
+  width: 30%;
+  height: 60px;
+  /* background-color: lightcoral; */
+}

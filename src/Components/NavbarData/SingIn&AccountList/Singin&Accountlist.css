@@ -1,0 +1,23 @@
+.navbar-accountlist-singin {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 150px;
+  /* background-color: aqua; */
+}
+.navbar-accountlist-singin a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-accountlist-singin h4 {
+  font-size: 13px;
+  font-weight: 100;
+}
+
+.navbar-accountlist-singin p{
+  font-size: 15px;
+  font-weight: 650;
+}

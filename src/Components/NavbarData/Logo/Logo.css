@@ -1,0 +1,12 @@
+.amazone-logo {
+  height: 80px;
+  width: 100px;
+  /* background-color: lightgray; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.amazone-logo img {
+  /* background-color: lightgreen; */
+  height: 130px;
+}

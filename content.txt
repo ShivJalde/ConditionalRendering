@@ -1,0 +1,16 @@
+
+Electronic api
+---------------
+https://fakestoreapi.com/products/category/electronics
+
+Jewelery api
+------------
+https://fakestoreapi.com/products/category/jewelery
+
+Mens Clothing
+--------------
+https://fakestoreapi.com/products/category/men's clothing
+
+Women's Clothing
+-----------------
+https://fakestoreapi.com/products/category/women's clothing

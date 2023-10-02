@@ -1,0 +1,23 @@
+.navbar-address {
+  height: 60px;
+  width: 180px;
+  /* background-color: lightblue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-address a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-address-text h3 {
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.navbar-address-text p {
+  font-weight: 650;
+  font-size: 16px;
+}

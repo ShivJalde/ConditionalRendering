@@ -1,0 +1,14 @@
+.navbar-searchbox {
+  height: 60px;
+  width: 600px;
+  /* background-color: lightblue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-searchbox input {
+  padding-left: 20px;
+  height: 40px;
+  width: 500px;
+}
